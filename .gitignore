@@ -1,0 +1,3 @@
+# Ignore all log analysis .txt files
+log_analysis_*.txt
+*.txt
